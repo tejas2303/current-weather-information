@@ -1,0 +1,10 @@
+
+-------------------------------------------------------------
+Weather shows for - BHOPAL  || 23 Jun 2021 | 12:08:14 PM
+-------------------------------------------------------------
+
+Current temperature is: 31.13 deg C
+Current pressure is   : 1007.00 hPa 
+Current Humidity      : 70 percent
+Current wind speed    : 4 kmph
+Current weather desc  : haze
